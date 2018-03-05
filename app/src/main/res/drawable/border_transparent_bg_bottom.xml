@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    top border: angle 270
+    right border: angle 180
+    bottom border: angle 90
+    left border: angle 360
+-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:angle="90"
+                android:startColor="#000"
+                android:centerColor="@android:color/transparent"
+                android:centerX="0.01" />
+        </shape>
+    </item>
+</layer-list>
+
+
+
+

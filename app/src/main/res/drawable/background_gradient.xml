@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    top border: angle 270, the gradient will go from top to bottom
+    right border: angle 180, the gradient will go from right to left
+    bottom border: angle 90, the gradient will go from bottom to up
+    left border: angle 360, the gradient will go from left to right
+-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:angle="360"
+                android:startColor="#000"
+                android:centerColor="#3ae7d0"
+                android:centerX="0.01" />
+        </shape>
+    </item>
+</layer-list>
